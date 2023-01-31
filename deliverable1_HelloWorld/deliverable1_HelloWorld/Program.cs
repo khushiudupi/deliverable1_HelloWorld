@@ -1,0 +1,29 @@
+﻿using System;
+namespace deliverable1_HelloWorld
+{
+internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Solution (1): Hello, World1");
+            Console.WriteLine("");
+
+            string stg = "Hello, World!";
+            Console.WriteLine("Solution (2): " + stg);
+            Console.WriteLine("");
+
+            Console.Write("Enter a user's name: ");
+            string userName = Console.ReadLine();
+            Console.WriteLine("The user's name is: " + userName);
+            Console.WriteLine("");
+
+            Console.Write("Enter the user's age: ");
+            int age = Convert.ToInt32((Console.ReadLine()));
+            Console.WriteLine("The user's age is: " + age);
+
+        }
+     }
+
+
+   
+ }

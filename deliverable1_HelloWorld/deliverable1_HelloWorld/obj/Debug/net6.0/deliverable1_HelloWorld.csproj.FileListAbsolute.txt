@@ -1,0 +1,15 @@
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net6.0/deliverable1_HelloWorld
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net6.0/deliverable1_HelloWorld.deps.json
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net6.0/deliverable1_HelloWorld.runtimeconfig.json
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net6.0/deliverable1_HelloWorld.dll
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/bin/Debug/net6.0/deliverable1_HelloWorld.pdb
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/deliverable1_HelloWorld.csproj.AssemblyReference.cache
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/deliverable1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/deliverable1_HelloWorld.AssemblyInfoInputs.cache
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/deliverable1_HelloWorld.AssemblyInfo.cs
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/deliverable1_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/deliverable1_HelloWorld.dll
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/refint/deliverable1_HelloWorld.dll
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/deliverable1_HelloWorld.pdb
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/deliverable1_HelloWorld.genruntimeconfig.cache
+/Users/khushiudupi/Desktop/deliverable1_HelloWorld/deliverable1_HelloWorld/obj/Debug/net6.0/ref/deliverable1_HelloWorld.dll
